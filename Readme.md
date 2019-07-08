@@ -11,14 +11,14 @@ The website is a front end responsive four page site that is supposed to be for 
 My website has used bootstrap to try make it responsive on multiple platforms eg.desktop or mobile. I also tried coding myself so that it was not solely bootstrap based but a mix. Based on my testing using codepen i have determined it to be responsive. Given my limited knowledge at this stage i have tried to use what i have been able to learn to make it responsive.
 
 ### Technologies Used
-HTML5
-CSS3
-Bootstrap
-GITHUB
-Google Chrome developer tools
-VScode
-Codepen
-Balsamiq
+* HTML5
+* CSS3
+* Bootstrap
+* GITHUB
+* Google Chrome developer tools
+* VScode
+* Codepen
+* Balsamiq
 
 ### Deployment
 I used Balsamiq to make a skeleton plane so that i was able to map out my design and layout for my project. It was divided into seperate pages that i planned to be similair in layout and linked to each other with a navigation bar. I tried to make it as easy and uncomplicated as i could because of my limited knowledge so far and to also decrease the negative user experience which might come about if i over complicated the website. 
